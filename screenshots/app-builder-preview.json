@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Fluister",
+      "hasCanvas": false,
+      "bodyTextLen": 1614,
+      "bodyTextHash": "82dd42dbb1fd1f5ecc2e9c42fd0570292ad6a8976fbd635c4fdf5e6c21736256",
+      "bodyTextPrefix": "PRIVATE INTERPRETER Fluister ENGINE Grok 4.5 PIPELINE 01 Audio r",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Fluister",
+      "hasCanvas": false,
+      "bodyTextLen": 1020,
+      "bodyTextHash": "bbcb27610f0e7df7739a6384a97208f2b686ebefe49ee3b48eef91908bc87208",
+      "bodyTextPrefix": "PRIVATE INTERPRETER Fluister ENGINE Grok 4.5 01 02 03 04 05 06 N",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
